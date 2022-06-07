@@ -23,7 +23,7 @@ const Verify = ({navigation}) => {
       <View style={styles.txt_container}>
         <Image
           source={require('../../../assets/videos/Building-a-Logistics-App.gif')}
-          style={{width: 200, height: 200, borderRadius: 100, resizeMode: 'contain'}}
+          style={{width: 250, height: 250, borderRadius: 150, resizeMode: 'contain'}}
         />
 
       </View>
@@ -51,7 +51,7 @@ const Verify = ({navigation}) => {
               <Text style={{fontFamily: 'JosefinSans-Regular', color: colors.secondary}}>- FB</Text>
             </Pressable>
           </View>
-          <Text style={{fontFamily: 'JosefinSans-ExtraLight', color: colors.primary}}>Created with ❤️ by Sn0wb1rd-teams</Text>
+          <Text style={{fontFamily: 'JosefinSans-ExtraLight', color: colors.primary, marginBottom: 10}}>Created with ❤️ by Sn0wb1rd-teams</Text>
         </View>
       </View>
     </>

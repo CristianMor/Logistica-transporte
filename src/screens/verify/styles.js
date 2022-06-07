@@ -1,4 +1,5 @@
 import {colors, dim} from '../../utils';
+
 export default {
     txt_container: {
         flex: 1,

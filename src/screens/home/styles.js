@@ -19,9 +19,10 @@ export default {
 		backgroundColor: colors.white,
 		paddingVertical: 5,
 		paddingHorizontal: 10,
-		marginHorizontal: 5,
 		borderRadius: 8,
 		color: colors.primary_text,
+		width: 90,
+		marginLeft: 5,
 	},
 	txt_title: {
 		color: colors.primary,
