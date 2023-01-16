@@ -16,3 +16,5 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 export const database = getFirestore();
+
+se agrego la nueva funcionalidad
