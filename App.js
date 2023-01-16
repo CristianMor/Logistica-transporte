@@ -6,3 +6,5 @@ export default function App() { return <Fonts><AppNav /></Fonts> }
 
 
 qeui se arreglo todo lo demas
+
+werjewkjrekwjrkejwrkj
